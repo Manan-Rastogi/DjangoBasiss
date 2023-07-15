@@ -1,0 +1,2 @@
+This is static file. This can be viewed by anyone.
+Go To Settings >> check link on How to Serve STATIC FILES.
